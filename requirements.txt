@@ -1,6 +1,0 @@
-streamlit
-pandas
-streamlit-gsheets
-st-gsheets-connection
-openpyxl
-xlsxwriter
